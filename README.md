@@ -1,8 +1,6 @@
-# Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
 ### NAME: SARAVANAN P
 ### REG NO: 24900878
-
-# Uploading ultrasonic sensor data in Thing Speak cloud
+### EXP6:Monitoring distance value in Thing speak cloud using ultrasonic sensor and ESP32 controller
 
 # AIM:
 To monitor the distance of the obstacle in the Thing speak cloud using ultrasonic sensor and ESP32 controller.
